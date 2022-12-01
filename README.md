@@ -1,6 +1,6 @@
 ### Oie 👋
 <div>
-Sou estudante do curso de Sistemas para Internet - 3º
+Sou estudante do curso de Sistemas para Internet - 5º
 período da UNICAP (Universidade Católica de
 Pernambuco). Saiba que sou apaixonada pelo que
 faço e estou sempre tentando fazer melhor, porque
