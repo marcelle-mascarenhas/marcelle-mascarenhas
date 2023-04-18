@@ -1,6 +1,6 @@
-### Oie 👋
+### 
 <div>
-Software Enginner - Passei Direto.
+Software Enginner @PasseiDireto
 </div>
 
 ##
