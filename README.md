@@ -1,7 +1,5 @@
 ### 
-<div>
-Software Enginner @PasseiDireto
-</div>
+
 
 ##
 <div style="display: inline_block"><br>
